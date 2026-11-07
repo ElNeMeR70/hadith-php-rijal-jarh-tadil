@@ -1,0 +1,9 @@
+{
+  "name": "elnemer70/hadith-php-rijal-jarh-tadil",
+  "description": "Ilm Al-Rijal Narrator Reliability & Jarh wa Ta'dil Scorer (ميزان الجرح والتعديل وتوثيق طبقات الرواة)",
+  "type": "project",
+  "license": "MIT",
+  "require": {
+    "php": ">=8.1"
+  }
+}
